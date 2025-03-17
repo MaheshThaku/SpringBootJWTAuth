@@ -1,5 +1,4 @@
 # SpringBootJWTAuth
-# SpringBootJWTAuth
 
 ## Overview
 SpringBootJWTAuth is a Spring Boot project that demonstrates how to implement JSON Web Token (JWT) based authentication and authorization. This project serves as a template for securing your Spring Boot applications with JWT.
