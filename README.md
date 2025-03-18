@@ -36,7 +36,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 mvn clean install
 mvn spring-boot:run
-
+```
 ##API Endpoints
 POST /public/add - Register a new user
 POST /public/authenticate - Authenticate user and return JWT token
